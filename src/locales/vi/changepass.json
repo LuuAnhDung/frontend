@@ -1,0 +1,13 @@
+{
+    "changepass": {
+        "change": "Thay đổi mật khẩu",
+        "current": "Mật khẩu hiện tại",
+        "new": "Mật khẩu mới",
+        "confirm": "Xác nhận mật khẩu mới",
+        "plcurrent": "Vui lòng nhập mật khẩu hiện tại!",
+        "plnew": "Vui lòng nhập mật khẩu mới!",
+        "plmust": "Mật khẩu phải có ít nhất 8 ký tự, bao gồm chữ cái, số và chữ in hoa.",
+        "plconfirm": "Vui lòng xác nhận mật khẩu mới!",
+        "pltwo": "Hai mật khẩu bạn nhập không khớp!"
+    }
+}

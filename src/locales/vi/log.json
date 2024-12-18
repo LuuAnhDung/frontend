@@ -1,0 +1,19 @@
+{
+    "log" : {
+        "header": "Đăng nhập để học cùng EduCo_",
+        "signup": "Đăng ký và bắt đầu học",
+        "pass": "Mật khẩu",
+        "login": "Đăng nhập",
+        "create": "Tạo tài khoản",
+        "forgot": "Quên mật khẩu",
+        "cancel": "Hủy",
+        "mesemail": "Email là bắt buộc",
+        "please": "Vui lòng nhập mật khẩu!",
+        "name": "Tên đầy đủ",
+        "phone": "Điện thoại",
+        "passmust": "Mật khẩu phải có ít nhất 8 ký tự, bao gồm chữ cái, số và chữ in hoa.",
+        "phonepl": "Số điện thoại là bắt buộc",
+        "plname": "Tên là bắt buộc",
+        "sign": "Đăng ký"
+    }
+}

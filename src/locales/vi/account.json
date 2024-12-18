@@ -1,0 +1,16 @@
+{
+    "account": {
+        "account": "Cài đặt tài khoản",
+        "prof": "Hồ sơ EduCo_",
+        "fullname": "Tên đầy đủ",
+        "email": "Email",
+        "phone": "Điện thoại",
+        "profile": "Ảnh đại diện",
+        "save": "Lưu",
+        "upload": "Tải hình ảnh",
+        "preview": "Xem trước hình ảnh",
+        "plname": "Vui lòng nhập tên đầy đủ!",
+        "plemail": "Vui lòng nhập email của bạn!",
+        "plphone": "Vui lòng nhập số điện thoại!"
+    }
+}

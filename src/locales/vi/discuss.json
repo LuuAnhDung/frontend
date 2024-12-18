@@ -1,0 +1,10 @@
+{
+    "discuss":{
+        "create": "Thêm thảo luận",
+        "close": "Đóng thảo luận",
+        "comment": "Bình luận",
+        "message": "Vui lòng nhập nội dung thảo luận!",
+        "enter": "Nhập nội dung thảo luận",
+        "submit": "Gửi"
+    }
+}

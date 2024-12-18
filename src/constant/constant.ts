@@ -1,0 +1,1 @@
+export const UPLOAD_URL = `https://educobackend.azurewebsites.net/`

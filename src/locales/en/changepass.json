@@ -1,0 +1,13 @@
+{
+    "changepass": {
+        "change": "Change Password",
+        "current": "Current Password",
+        "new": "New Password",
+        "confirm": "Confirm New Password",
+        "plcurrent": "Please input your current password!",
+        "plnew": "Please input your new password!",
+        "plmust": "Password must be at least 8 characters, contain a letter, a number, and an uppercase letter.",
+        "plconfirm": "Please confirm your new password!",
+        "pltwo": "The two passwords you entered do not match!"
+    }
+}

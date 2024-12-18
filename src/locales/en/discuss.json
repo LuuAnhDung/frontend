@@ -1,0 +1,10 @@
+{
+    "discuss":{
+        "create": "Create Discuss",
+        "close": "Close Discuss",
+        "comment": "Comment",
+        "message": "Please enter the content of the discussion!",
+        "enter": "Enter the content of the discussion",
+        "submit": "Submit"
+    }
+}

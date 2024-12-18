@@ -1,0 +1,24 @@
+@import "../../../assets/sass/base";
+
+
+.contact {
+    margin-top: $header-height;
+    padding: 8rem 0rem;
+    height: 70rem;
+    
+    &__title {
+        @include h-style("h2");
+    }
+    .remember{
+        text-align: left;
+    }
+    &-btn{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 1.2rem 0;
+        box-sizing: content-box;
+        border-radius: 15px;
+    }
+}

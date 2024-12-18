@@ -1,0 +1,19 @@
+{
+    "log" : {
+        "header": "Login to learn with EduCo_",
+        "signup": "Sign up and start learning",
+        "pass": "Password",
+        "login": "Login",
+        "create": "Create Account",
+        "forgot": "Forgot Password",
+        "cancel": "Cancel",
+        "mesemail": "Email is required",
+        "please": "Please input your password!",
+        "name": "Full name",
+        "phone": "Phone",
+        "passmust": "Password must be at least 8 characters, contain letter, number, and uppercase letter.",
+        "phonepl": "Phone is required",
+        "plname": "Name is required",
+        "sign": "Signup"
+    }
+}

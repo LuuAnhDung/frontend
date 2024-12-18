@@ -1,0 +1,24 @@
+{
+    "coursedetail":{
+        "rating": "ratings", 
+        "students": "students",
+        "views": "views",
+        "created": "Created by",
+        "updated": "Last updated",
+        "addcart": "Add to Cart",
+        "enroll": "Enroll now",
+        "buy": "Buy now",
+        "gotocourse": "Go to course",
+        "30day": "30-Day Money-Back Guarantee",
+        "courseinclude": "This course includes:",
+        "video": "hours on-demand video",
+        "articles": "articles",
+        "learn": "What you'll learn",
+        "show": "Show more",
+        "coursecontent": "Course content",
+        "sections": "sections",
+        "lectures": "lectures",
+        "length": "hours total length",
+        "expand": "Expand all sections"
+    }
+}

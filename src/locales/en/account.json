@@ -1,0 +1,16 @@
+{
+    "account": {
+        "account": "Account Settings",
+        "prof": "EduCo_ profile",
+        "fullname": "Full Name",
+        "email": "Email",
+        "phone": "Phone",
+        "profile": "Profile picture",
+        "save": "Save",
+        "upload": "Upload Image",
+        "preview": "Image preview",
+        "plname": "Please input your full name!",
+        "plemail": "Please input your email!",
+        "plphone": "Please input your phone number!"
+    }
+}

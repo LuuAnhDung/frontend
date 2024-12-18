@@ -1,0 +1,17 @@
+{
+    "header":{
+        "mylearning": "Khóa học của tôi",
+        "home": "Trang chủ",
+        "courses": "Khóa học",
+        "contact": "Liên hệ",
+        "aboutus": "Giới thiệu",
+        "blog": "Blog",
+        "signin": "Đăng nhập",
+        "signup": "Đăng ký",
+        
+        "setting": "Cài đặt tài khoản",
+        "purchase": "Lịch sử mua hàng",
+        "change": "Thay đổi mật khẩu",
+        "logout": "Đăng xuất"
+    }
+}

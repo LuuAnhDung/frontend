@@ -1,0 +1,25 @@
+{
+    "course":{
+        "heading": "Find your best courses",
+        "level": "Level",
+        "price": "Price",
+        "free": "Free",
+        "paid": "Paid",
+        "rating": "Course Ratings", 
+        "45": "4.5 & up",
+        "40": "4.0 & up",
+        "35": "3.5 & up",
+        "30": "3 & up",
+        "results": "results",
+        "resultsfor": "results for",
+        "sort": "Sort",
+        "clearfilters": "Clear Filters",
+        "all": "All Level",
+        "beginner": "Beginner",
+        "intermediate": "Intermediate",
+        "advanced": "Advanced",
+        "reviews": "Most Reviews",
+        "enrolled": "Most Enrolled",
+        "newest": "Newest"
+    }
+}

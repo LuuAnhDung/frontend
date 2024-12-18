@@ -1,0 +1,11 @@
+{
+    "player":{
+        "path": "Path",
+        "discuss": "Discuss",
+        "learners": "Learners",
+        "note": "Notes",
+        "back": "Back to course page",
+        "previous": "Previous",
+        "next": "Next" 
+    }
+}

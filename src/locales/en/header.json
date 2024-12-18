@@ -1,0 +1,17 @@
+{
+    "header":{
+        "mylearning": "My Learning",
+        "home": "Home",
+        "courses": "Courses",
+        "contact": "Contact",
+        "aboutus": "About us",
+        "blog": "Blog", 
+        "signin": "Sign in",
+        "signup": "Sign up",
+        
+        "setting": "Account settings",
+        "purchase": "Purchase history",
+        "change": "Change Password",
+        "logout": "Logout"
+    }
+}

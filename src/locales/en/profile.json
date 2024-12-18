@@ -1,0 +1,10 @@
+{
+    "profile":{
+        "about": "About",
+        "courses": "COURSES",
+        "hours": "HOURS",
+        "edit": "Edit",
+        "posts": "POSTS",
+        "achievement": "ACHIEVEMENTS"
+    }
+}

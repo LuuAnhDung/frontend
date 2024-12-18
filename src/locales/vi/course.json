@@ -1,0 +1,25 @@
+{
+    "course":{
+        "heading": "Tìm khóa học tốt nhất",
+        "level": "Mức độ",
+        "price": "Giá",
+        "free": "Miễn phí",
+        "paid": "Trả ",
+        "rating": "Đánh giá khóa học", 
+        "45": "4.5 trở lên",
+        "40": "4.0 trở lên",
+        "35": "3.5 trở lên",
+        "30": "3 trở lên",
+        "results": "kết quả",
+        "resultsfor": "kết quả cho",
+        "sort": "Lọc",
+        "clearfilters": "Xóa bộ lọc",
+        "all": "Tất cả các mức độ",
+        "beginner": "Mới bắt đầu",
+        "intermediate": "Trung cấp",
+        "advanced": "Trình độ cao",
+        "reviews": "Đánh giá nhiều nhất",
+        "enrolled": "Đăng ký nhiều nhất",
+        "newest": "Mới nhất"
+    }
+}

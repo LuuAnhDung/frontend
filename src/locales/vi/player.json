@@ -1,0 +1,11 @@
+{
+    "player":{
+        "path": "Bài học",
+        "discuss": "Thảo luận",
+        "learners": "Người học",
+        "note": "Ghi chú",
+        "back": "Quay lại trang khóa học",
+        "previous": "Trước",
+        "next": "Sau" 
+    }
+}

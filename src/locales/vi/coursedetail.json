@@ -1,0 +1,24 @@
+{
+    "coursedetail":{
+        "rating": "đánh giá", 
+        "students": "học viên",
+        "views": "lượt xem",
+        "created": "Được tạo bởi",
+        "updated": "Cập nhật lần cuối",
+        "addcart": "Thêm vào giỏ hàng",
+        "enroll": "Đăng ký ngay",
+        "buy": "Mua ngay",
+        "gotocourse": "Đi đến khóa học",
+        "30day": "Đảm bảo hoàn tiền trong 30 ngày",
+        "courseinclude": "Khóa học này bao gồm:",
+        "video": "giờ video theo yêu cầu",
+        "articles": "bài giảng",
+        "learn": "Những gì bạn sẽ học được",
+        "show": "Xem thêm",
+        "coursecontent": "Nội dung khóa học",
+        "sections": "phần",
+        "lectures": "bài giảng",
+        "length": "giờ tổng thời gian",
+        "expand": "Mở rộng các phần"
+    }
+}

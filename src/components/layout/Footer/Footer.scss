@@ -1,0 +1,123 @@
+@import "../../../assets/sass/mixins";
+@import "../../../assets/sass/base";
+
+.footer {
+  background-color: $dark-bg-color;
+  color: $light-text-color;
+  padding: 4rem 0;
+  
+  &__row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  &__col {
+    padding: 0 0rem;
+    margin-bottom: 2rem;
+  }
+
+  &__col-link {
+    padding: 0 0rem;
+    margin-bottom: 2rem;
+  }
+
+  &__col-media {
+    padding: 0 8rem;
+    margin-bottom: 2rem;
+  }
+
+  &__logo-img {
+    max-width: 100%;
+  }
+
+  &__text {
+    line-height: 1.4;
+    margin-top: 1rem;
+    font-size: 1.6rem;
+    font-weight: 400;
+    transition: color 0.3s ease;
+  }
+
+  // &__text {
+  //   font-weight: 500;
+  //   font-size: 1.6rem;
+  //   line-height: 1.4;
+  //   margin-top: 1rem;
+  // }
+
+  &__title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .featured-list {
+    @include list-reset;
+    margin-top: 2rem;
+
+    &__item {
+      margin-bottom: 1.3rem;
+
+      &-link {
+        color: #fff;
+        font-size: 1.6rem;
+        font-weight: 400;
+        transition: color 0.3s ease;
+
+        &:hover {
+          color: $brand-secondary-color;
+        }
+      }
+    }
+  }
+
+  .social-list {
+    display: flex;
+    gap: 1rem;
+    margin-top: 3rem;
+  }
+
+  .social-btn {
+    border: 2px solid #ffffff;
+    padding: 0.8rem;
+    background: transparent;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+
+  .social-icon {
+    //color: $brand-secondary-color;
+    font-size: 2rem;
+  }
+
+  @media (max-width: map-get($breakpoint, tablet)) {
+    .footer__col {
+      padding: 0 1rem;
+    }
+    .footer__col-link {
+      padding: 0 1rem;
+    }
+    .footer__col-media {
+      padding: 0 1rem;
+    }
+    .social-list {
+
+      //justify-content: center;
+    }
+  }
+
+  @media (max-width: map-get($breakpoint, mobile-sm)) {
+    .footer__text {
+      margin: 1rem 0;
+    }
+
+    .featured-list {
+      margin-top: 1rem;
+    }
+  }
+}

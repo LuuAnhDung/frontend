@@ -1,0 +1,9 @@
+{
+    "cart": {
+        "shoping": "Shopping Cart",
+        "total": "Total:",
+        "incart": "Courses in Cart",
+        "checkout": "Checkout",
+        "promocode": "Promo code"
+    }
+}
